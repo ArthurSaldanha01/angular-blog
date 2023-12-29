@@ -1,5 +1,6 @@
 .container_articles {
     margin-top: 30px;
+    margin-right: 45px;
 
     display: flex;
     flex-direction: row;
